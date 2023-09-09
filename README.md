@@ -6,6 +6,7 @@
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
+![image](https://github.com/BlitzedOfficial/BlitzedGrabberX96NEON/assets/141662956/f7563144-3d72-4a32-aa25-dba6a864ff9b)
 
 
 ## What To Expect
